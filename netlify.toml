@@ -16,3 +16,16 @@
   [headers.values]
     X-Content-Type-Options = "nosniff"
     Cache-Control = "public, max-age=3600"
+
+# Redirect HTTP to HTTPS, and use the dedicated book page as the site's canonical home.
+[[redirects]]
+  from = "http://learn.jomovate.com/*"
+  to = "https://learn.jomovate.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/"
+  to = "https://learn.jomovate.com/power-bi-book/"
+  status = 301
+  force = true
