@@ -1,0 +1,112 @@
+{
+  "site": "Jomovate Learning Hub",
+  "title": "Power BI for Business Intelligence and Data Analytics",
+  "author": "Daramola Joseph Omoyele",
+  "publisher": "Jomovate Digital Labs",
+  "canonical": "https://learn.jomovate.com/power-bi-book/",
+  "version": "1.0-prelaunch",
+  "prepared_on": "2026-11-11",
+  "source": "User-supplied Jomovate_Website_Downloads.zip",
+  "publication_status": "GitHub source added; binary ZIP files must be uploaded to downloads/ before publishing",
+  "files": [
+    {
+      "chapter": 2,
+      "label": "Northstar · Power Query",
+      "type": "dataset",
+      "filename": "Ch02_Northstar_Power_Query_Practice.zip",
+      "size_bytes": 7747,
+      "files": 11,
+      "sha256": "f34c8679641bf6e670c29594a01d40ba1ec63064dd6e126cff231afce3ff86e2",
+      "url": "/downloads/Ch02_Northstar_Power_Query_Practice.zip",
+      "verified": "Archive SHA-256 established from source ZIP; check after upload"
+    },
+    {
+      "chapter": 8,
+      "label": "Stakeholder Communication Toolkit",
+      "type": "toolkit",
+      "filename": "Ch08_Stakeholder_Communication_Toolkit_OPTIONAL.zip",
+      "size_bytes": 9244,
+      "files": 11,
+      "sha256": "705a191251b614fc9e8988625b1aa82a42dd5280d6e1bc77557c94721038d1e6",
+      "url": "/downloads/Ch08_Stakeholder_Communication_Toolkit_OPTIONAL.zip",
+      "verified": "Archive SHA-256 established from source ZIP; check after upload"
+    },
+    {
+      "chapter": 6,
+      "label": "Riverton · Student Survey",
+      "type": "dataset",
+      "filename": "Ch06_Riverton_Survey_Practice.zip",
+      "size_bytes": 16604,
+      "files": 12,
+      "sha256": "ae1efbe142b0ebd11b69dd986d8713f7f171cb5920e416197477a727d8021789",
+      "url": "/downloads/Ch06_Riverton_Survey_Practice.zip",
+      "verified": "Archive SHA-256 established from source ZIP; check after upload"
+    },
+    {
+      "chapter": 9,
+      "label": "Portfolio & Interview Toolkit",
+      "type": "toolkit",
+      "filename": "Ch09_Portfolio_and_Interview_Toolkit_OPTIONAL.zip",
+      "size_bytes": 15175,
+      "files": 14,
+      "sha256": "184b3f72b961b129cee3c03e9611ad1cd58988f71ded0342620c3e944de463f7",
+      "url": "/downloads/Ch09_Portfolio_and_Interview_Toolkit_OPTIONAL.zip",
+      "verified": "Archive SHA-256 established from source ZIP; check after upload"
+    },
+    {
+      "chapter": null,
+      "label": "Complete Core Practice Pack",
+      "type": "complete",
+      "filename": "Power_BI_Book_Complete_Practice_Pack.zip",
+      "size_bytes": 4053557,
+      "files": 89,
+      "sha256": "cabf09c43767438ac23823d376da9be9eeb36780688bdc2e95208162e6fcb63c",
+      "url": "/downloads/Power_BI_Book_Complete_Practice_Pack.zip",
+      "verified": "Archive SHA-256 established from source ZIP; check after upload"
+    },
+    {
+      "chapter": 5,
+      "label": "Northstar · DAX and Targets",
+      "type": "dataset",
+      "filename": "Ch05_Northstar_DAX_Practice.zip",
+      "size_bytes": 11578,
+      "files": 13,
+      "sha256": "d0d54349256bdec4fc2ee4286cdc3a181b84f2f6bcf25a3c47b36867af0d00ee",
+      "url": "/downloads/Ch05_Northstar_DAX_Practice.zip",
+      "verified": "Archive SHA-256 established from source ZIP; check after upload"
+    },
+    {
+      "chapter": 4,
+      "label": "Northstar · Star Schema",
+      "type": "dataset",
+      "filename": "Ch04_Northstar_Star_Schema_Practice.zip",
+      "size_bytes": 8446,
+      "files": 9,
+      "sha256": "2b1f0ce80c916bda6a4fdb4150bca0b234eb666ed4fdef6c84c84f63c83824b0",
+      "url": "/downloads/Ch04_Northstar_Star_Schema_Practice.zip",
+      "verified": "Archive SHA-256 established from source ZIP; check after upload"
+    },
+    {
+      "chapter": null,
+      "label": "Brightway Home · Continuing Workshop Dataset",
+      "type": "continuing-workshop",
+      "filename": "Brightway_Workshop_Dataset_Pack.zip",
+      "size_bytes": 3989785,
+      "files": 28,
+      "sha256": "986dab8716d50560c90bb46c36206b8bc1a9137382586d33b0e8e795e55ff1c6",
+      "url": "/downloads/Brightway_Workshop_Dataset_Pack.zip",
+      "verified": "Archive SHA-256 established from source ZIP; check after upload"
+    },
+    {
+      "chapter": 7,
+      "label": "Cedarbridge · Financial & Operational",
+      "type": "dataset",
+      "filename": "Ch07_Cedarbridge_Finance_Operations_Practice.zip",
+      "size_bytes": 12133,
+      "files": 16,
+      "sha256": "1f4e9059412016a6076c0cb294d7e75e007209f995bd9e8c891a3fbb2abe9355",
+      "url": "/downloads/Ch07_Cedarbridge_Finance_Operations_Practice.zip",
+      "verified": "Archive SHA-256 established from source ZIP; check after upload"
+    }
+  ]
+}
