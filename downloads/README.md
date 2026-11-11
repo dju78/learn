@@ -1,7 +1,17 @@
-# Companion ZIP files required before Netlify launch
+# Jomovate Learning Hub — Resource downloads
 
-The nine original binary ZIP files are not yet present in this GitHub repository. Add them **unchanged** from the supplied Jomovate Learning Hub deployment ZIP. Their exact names and SHA-256 checksums are listed in ../DOWNLOAD_INTEGRITY.md.
+Upload the nine ZIP files from the author-supplied `Jomovate_Website_Downloads.zip` **unchanged** into this directory. They are intentionally omitted from the text-only website source deployment so far.
 
-Upload the original files into this directory through GitHub's **Add file → Upload files** interface, or from GitHub Desktop. Do not unpack the individual chapter ZIP archives in this directory.
+- `Ch02_Northstar_Power_Query_Practice.zip`
+- `Ch04_Northstar_Star_Schema_Practice.zip`
+- `Ch05_Northstar_DAX_Practice.zip`
+- `Ch06_Riverton_Survey_Practice.zip`
+- `Ch07_Cedarbridge_Finance_Operations_Practice.zip`
+- `Ch08_Stakeholder_Communication_Toolkit_OPTIONAL.zip`
+- `Ch09_Portfolio_and_Interview_Toolkit_OPTIONAL.zip`
+- `Brightway_Workshop_Dataset_Pack.zip`
+- `Power_BI_Book_Complete_Practice_Pack.zip`
 
-After upload, check the links at /power-bi-book/ and run the hash verification locally before connecting the Netlify domain.
+Once uploaded, update `/resources.json` to version `1.0` and remove its pending-upload notice. File SHA-256 checksums must match the supplied resource manifest. Do not put the manuscript PDF or Word file in this public directory.
+
+Canonical book link: https://learn.jomovate.com/power-bi-book/
